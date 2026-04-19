@@ -1,6 +1,5 @@
 :root {
   --radius: 14px;
-  --radius-sm: 10px;
   --surface: var(--bg);
   --surface-2: var(--social-bg);
 }
